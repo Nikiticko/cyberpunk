@@ -3,6 +3,12 @@ body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
+h2 {
+  text-align: center;
+}
+
 a {
-  color: #00B7FF;
+  color: gray;
+  text-decoration: none;
+  padding-right: 20px;
 }
